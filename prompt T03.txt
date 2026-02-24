@@ -4,4 +4,4 @@ pembayaran itu uda masuk ke bursar mahasiswa. pelanggannya mahasiswa it del
 
 tagihan itu masuk ke bursar mahasiswa tiap bulannya. dari akun cis del
 
-buat input dan output yang jelas dan logis
+buat input dan output yang jelas dan logis.

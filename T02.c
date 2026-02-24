@@ -14,7 +14,7 @@ int main() {
     int kode;
     scanf("%d", &kode);   // kode kelompok (1, 2, atau 3)
 
-    int total = 0;
+    int total = 0;  
 
     // proses penjumlahan berdasarkan pola selang 3
     for(int i = 0; i < N; i++) {

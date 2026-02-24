@@ -22,7 +22,7 @@ struct Transaksi {
 struct Mahasiswa mahasiswa[MAX];
 struct Transaksi transaksi[MAX];
 
-int jumlahMahasiswa = 0;
+int jumlahMahasiswa = 0; 
 int jumlahTransaksi = 0;
 
 // ===== CEK NIM =====
