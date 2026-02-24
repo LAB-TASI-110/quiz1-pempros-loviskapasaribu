@@ -1,0 +1,7 @@
+buat sistem informasi laundry del yang dapat mencatat transaksi tiap bulan dari bursar mahasiswa dan terdapat di cis
+
+pembayaran itu uda masuk ke bursar mahasiswa. pelanggannya mahasiswa it del
+
+tagihan itu masuk ke bursar mahasiswa tiap bulannya. dari akun cis del
+
+buat input dan output yang jelas dan logis

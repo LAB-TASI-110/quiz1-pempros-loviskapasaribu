@@ -1,0 +1,3 @@
+buat dgn array 
+
+coba buat program bahasa c utk program tsb
