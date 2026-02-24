@@ -8,7 +8,7 @@ int main() {
     int harga = 0;
     int total = 0;
 
-    int berat_ucok = 100;
+    int berat_ucok = 100;   
     int berat_butet = 50;
     int rasio = berat_ucok / berat_butet;
 
