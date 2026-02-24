@@ -4,7 +4,7 @@
 #define MAX 100
 
 // ===== STRUCT =====
-struct Mahasiswa {
+struct Mahasiswa {  
     int nim;
     char nama[50];
 };
